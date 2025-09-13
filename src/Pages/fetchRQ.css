@@ -1,0 +1,7 @@
+.section-accordion a {
+  text-decoration: none;
+}
+.pagination-section {
+  display: flex;
+  margin-left: auto;
+}
