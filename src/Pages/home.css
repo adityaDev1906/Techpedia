@@ -1,0 +1,39 @@
+.heading {
+  text-decoration: none;
+}
+
+.home-image {
+  width: 680px;
+  height: auto;
+  margin-top: 20px;
+  border-radius: 6px;
+}
+
+.home-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.subjects-columns {
+  display: flex;
+  gap: 40px;
+}
+.subjects-columns a{
+    text-decoration: none;
+}
+.subjects-columns a:hover {
+    color: chartreuse;
+}
+
+.subjects-columns ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-left: 40px;
+}
+
+.subjects-columns li {
+  margin-bottom: 15px;
+  font-size: 2.4rem;
+  margin-left: 120px;
+}

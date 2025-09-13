@@ -1,7 +1,7 @@
-import React from 'react'
-import './mainLayout.css'
-import {Outlet} from 'react-router-dom';
+import React from 'react';
+import './mainLayout.css';
 import Header from './Header';
+import {Outlet} from 'react-router-dom';
 import Footer from './Footer';
 
 
@@ -17,4 +17,4 @@ const MainLayout = () => {
   )
 }
 
-export default MainLayout
+export default MainLayout;
